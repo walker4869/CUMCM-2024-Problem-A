@@ -1,6 +1,9 @@
 # CUMCM-2024-Problem-A
 Design and analysis of the movement route of "Bench Loong" on planar equidistant spiral track
 
+
+![4a0e1fa36e3c792b620c885d4781e8be](https://github.com/user-attachments/assets/df159c85-5295-4b4e-9841-4b6285fb5b2c)
+
 The "Bench Loong," also known as "Panlong," is a traditional folk activity in the Zhejiang and Fujian regions of China, usually held during the Lantern Festival. This activity involves connecting multiple benches end to end to form a long, dragon-like line. During the dragon dance, the dragon head leads the dragon body and tail in a spiraling motion, creating a coiled pattern that showcases unique cultural characteristics.
 
 Structure of the Bench Loong: It consists of a dragon head bench, dragon body benches, and a dragon tail bench. Each bench has a width of 30 cm, and each bench has a hole with a diameter of 5.5 cm located 27.5 cm from each end, used to insert handles that connect the benches into a dragon. Except for the dragon head bench, which is 341 cm in length, the other benches (i.e., the body and tail) are each 220 cm long.
