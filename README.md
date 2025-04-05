@@ -1,4 +1,4 @@
-# CUMCM-2024-Problem-A
+# CUMCM-2024-Problem-A(省一)
 Design and analysis of the movement route of "Bench Loong" on planar equidistant spiral track
 
 
